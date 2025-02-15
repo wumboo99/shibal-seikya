@@ -2,3 +2,4 @@ Latihan  git
 1. git config
 2. git init
 3. git git
+4. mafia sholawat
